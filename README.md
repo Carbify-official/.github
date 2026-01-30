@@ -2,31 +2,35 @@
 
 This GitHub organization hosts the internal software platforms developed by Carbify and its affiliated products.
 
-Our repositories cover a broad range of production systems, spanning Web2 and Web3 infrastructure, climate and carbon-related platforms, and interactive applications built on top of blockchain and traditional cloud architectures.
+Development within this organization has been ongoing since 2023 and supports multiple live products across climate technology, Web3 infrastructure, and interactive platforms.
 
 ## Scope of development
 
-The software maintained within this organization includes, among others:
+The Carbify codebase spans a broad and mature technical landscape, currently consisting of 31 private repositories, including:
 
+- Multiple frontend applications and dashboards  
+- Multiple backend services and APIs  
 - Carbon accounting, certification, and registry systems  
-- Smart contracts and supporting Web3 infrastructure  
-- Dashboards and business portals for internal and external stakeholders  
-- APIs and backend services powering consumer and partner-facing products  
+- Blockchain infrastructure, including more than 50 production smart contracts  
 - Game-related platforms and on-chain integrations  
 - Data pipelines, replication flows, and automation services  
 
-These systems are actively developed and maintained as part of live products and ongoing initiatives.
+These repositories together form a multi-year, production-grade software stack.
 
 ## Repository visibility
 
 All repositories in this organization are private by design.
 
-This is a deliberate choice to protect intellectual property, production logic, and security-sensitive components. As a result, repository names, source code, and internal documentation are not publicly listed.
+This is a deliberate choice to protect intellectual property, security-sensitive logic, and production infrastructure. As a result, repository names, source code, and internal documentation are not publicly listed.
 
-## Development activity
+## Development activity and contributions
 
-Active development can be verified through the contributor profiles of Carbify team members. Private contributions are enabled on individual profiles and reflect continuous work across our internal platforms, including frequent updates, refactors, and feature development.
+Development is performed by a team of developers working across multiple environments.
+
+GitHub contribution graphs may show limited public activity, as a significant portion of day-to-day development takes place on internal development platforms, partner-controlled environments, or client-specific infrastructures. This organization primarily serves as the canonical source of record for reviewed, production-bound code.
+
+Private contributions are enabled on individual contributor profiles and reflect ongoing work across Carbify’s internal platforms.
 
 ## Access and due diligence
 
-Read-only access to specific repositories can be granted on request for audits, technical due diligence, or partnerships, subject to approval and applicable confidentiality agreements.
+Read-only access to selected repositories can be granted for technical due diligence, audits, or partnerships, subject to approval and applicable confidentiality agreements.
