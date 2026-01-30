@@ -1,6 +1,6 @@
 # Carbify
 
-This GitHub organization hosts the internal software platforms developed by Carbify and its affiliated products.
+This GitHub organization hosts the internal software platforms developed by Carbify, Sproutly and its affiliated products.
 
 Development within this organization has been ongoing since 2023 and supports multiple live products across climate technology, Web3 infrastructure, and interactive platforms.
 
